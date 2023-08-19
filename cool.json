@@ -1,5 +1,3 @@
 local t = {
   lurow = "essa"
 }
-
-return t
