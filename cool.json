@@ -1,5 +1,5 @@
-function cool()
+local t = {
+  lurow = "essa"
+}
 
-print("essa")
-
-end
+return t
