@@ -1,1 +1,3 @@
-local t = {\n  [\"e\"] = {\nfalse,\n  }\n}\n
+local t = {
+"lurow" = "epic"
+}
